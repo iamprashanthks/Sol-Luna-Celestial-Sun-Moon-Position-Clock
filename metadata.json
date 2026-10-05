@@ -1,0 +1,6 @@
+{
+  "name": "Sol & Luna — Celestial Sun & Moon Position Clock",
+  "description": "Real-time 24-hour astronomical clock tracking sun and moon positions, sunrise, sunset, moonrise, moonset, twilights, lunar phases, and celestial trajectories across the sky.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
